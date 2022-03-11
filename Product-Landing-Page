@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<header id="header">
+  <div class="title">
+  <h2>Dr Sunny Sundersen's</h2>
+  <h1 id="product-name"> SunSuckers</h1>
+  </div>
+    
+    <nav id="nav-bar">
+      <ul>
+        <a href="#features" class="nav-link" id="">Features</a>
+       <a href="#user-view" class="nav-link" id="">Video</a>
+       <a href="#prices" class="nav-link" id="">Prices</a>
+      </ul>
+    </nav>
+  <image src="https://upload.wikimedia.org/wikipedia/en/1/1c/Roger_Smith.png" alt="roger" id="header-img" >    
+</header>
+  
+  
+  
+  <div class="bodywrap">
+  <div class=part>
+  <h2 id="catchword">Save the environment with the power of sun</h2>
+  </div>
+  
+  
+  
+  <div class="part">
+  <form id="form" action=" https://www.freecodecamp.com/email-submit">
+    <label for="email">Enter your email for a better customer experience</label>
+    <input id="email" type="email" name="email" placeholder="Enter your email here">
+    <input type="submit" id="submit" value="Let's start" class="button">
+  </form>
+  </div>
+  
+  <div class="part">
+  <section id="features">
+    <h3>Features</h3>
+    <strong>Premium Materials:</strong>
+    <p>Lorem ipsum lorem ipsum lorem ipsum</p>
+    <strong>Long Term Suport:</strong>
+    <p>Lorem ipsum lorem ipsum lorem ipsum</p>
+     <strong>Fast Shipping:</strong>
+    <p>Lorem ipsum lorem ipsum lorem ipsum</p>
+  </section>
+  </div>
+  
+  <div class="part">
+  <section id="user-view">
+   <div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zz5MV_qB36Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </section>
+  </div>
+  
+  <div class="part">
+  <section id="prices">
+    Prices:
+    <p>Soooo cheap Don't need to look at it</p>
+  </section>
+    </div>
+  
+  <div class="part">
+    </div>
+    
+  <footer>
+    <span>copyright 2021,sunny sunny</span>
+  </footer>
+  </div>
+  
+</html>
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@700&display=swap');
+body{
+  font-family:'gluten',sans-seriff;
+  font-size:20px;
+  margin:0;
+}
+
+#header{
+  display:flex;
+  position:fixed;
+  
+  top:0px;
+  background-color:#fac10c;
+  width:100%;
+  max-height:150px;
+  justify-content:space-between;
+}
+.bodywrap{
+  display:block;
+  margin-top:150px;
+  align:center;
+  background-color:#fff03f;
+  padding-top:10px;
+ 
+}
+#nav-bar{
+ font-size:22px;
+ background-color:;
+ justify-self:flex-end;
+  align-self:flex-end;
+ display:flex;
+ flex-direction:row;
+  align-items:center;
+  width:850px;
+  justify-content:flex-end;
+}
+#nav-bar a{
+  text-decoration:none;
+  color:#110f0b;
+}
+.title{
+  justify-self:;
+}
+#product-name{
+  font-size:55px;
+  font-weight:80px;;
+  width:50%;
+  
+}
+
+@media (max-width:100px){
+  #product-name{
+    font-size=20px;
+  }  
+}
+.part{
+  display:block;
+  text-align:center;
+  margin-top:150px;
+}
+#catchword{
+font-size:60px;
+color:#0c0b08;
+}
+
+#header-img{
+  width:100px;
+  height:100%;
+  max-width:100px;
+  justify-self:flex-end;
+}
+#background{
+  width:100%;
+  opacity:0.5;
+  position:absolute;
+  top:150px;
+  z-index:-1;
+}
+#form{
+  display:block;
+}
+footer{
+  bottom:0px;
+}
+</style>
