@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<nav id="navbar">
+<header id="title">Steve Smith</header>
+  <a class="nav-link" href="#introduction">Introduction</a>
+  <a class="nav-link" href="#biography">Biography</a>
+  <a class="nav-link" href="#friends">Friends</a>
+  <a class="nav-link" href="#romances">Romances</a>
+  <a class="nav-link" href="#personality">Personality</a>
+  <a class="nav-link" href="#hobbies_and_talents">Hobbies and Talents</a>
+</nav>
+
+<main id="main-doc">
+  <section class="main-section" id="introduction">
+    <header>Introduction</header>
+    <p>Steven Anita Smith is the son of Francine and Stan Smith. Steve has an older sister Hayley. They reside at Langley Falls, Virginia. The family also includes a fish named Klaus and an alien named Roger.  </p>
+  </section>
+  
+  <section class="main-section" id="biography">
+    <header>Biography</header>
+    <p>Steve is a bit of a social outcast, but has three close friends. Steve and his friends spend a lot of time playing Dungeons and Dragons and pretending to be the characters from Star Trek. Steve is a student at Pearl Bailey High School and "Brave N00b World" states that he is in the 9th grade. </p>
+    <p>Although Steve celebrated his 15th birthday in "Virtual In-Stanity", Stan would later berate him as a 14 year old playing with toys in "Toy Whorey".</p>
+
+<p>He has only recently entered puberty which he is very proud of, and is always trying to lose his virginity or have a girlfriend. He is slightly overweight, as "There Will Be Bad Blood" reveals he has a slight gut and love handles.</p>
+    <code>lorem ipsum lorem ipsum</code>
+
+<p>It was revealed in the "Gorillas in the Mist" that Steve's middle name is Anita, which he has in common with his father.</p>
+
+<p>Steve graduates from Arizona State University in "The Life and Times of Stan Smith" for answering a single question in science class, becoming valedictorian as well, during which his speech earns him a Ph.D and five Bud Ices. </p>
+  </section>
+  
+  <section class="main-section" id="friends">
+    <header>Friends</header>
+    <p><ul>
+    <li>Barry is an overweight evil genius, who takes tablets prescribed to him to stop his evil behavior. When he is taking his tablets, he speaks with a squeaky accent and is fairly dim-witted. He has also spoken in a deep voice when referring to ladies, and has spoken in a Gary Oldman like English accent when in evil mode in "With Friends Like Steve's". He is also gifted as Rainman when it comes to counting cards as seen in "Home Wrecker".</li>
+    <li>Snot has curly hair and acne. He and Steve are best friends as stated in "License to Till" when Snot calls all 3 guys his friends but whispers to Steve that he is "the best of the bests". He and Steve like older women, he once had an affair with Steve's girlfriend Gretchen in "Con Heir".</li>
+    <li>Toshi is a Japanese boy who does not speak English, but seems to understand it. The others don't seem to understand what he says. He doesn't entirely like Steve and when he was once offered to kill Steve in "Finances With Wolves", he expressed it was his fondest wish. He also knows about Roger as an alien as he comments on the fact in "Bar Mitzvah Hustle".</li></ul></p>
+  </section>
+
+ <section class="main-section" id="romances">
+    <header>Romances</header>
+   <p><ul><li>Debbie is Steve's main romance for numerous episodes.</li>
+     <li>Betsy White is the gymnast daughter of Chuck and Christy White, by kissing her Steve effectively passes on Roger's baby and she is sent away, happy that she no longer has to do gymnastics in "Deacon Stan, Jesus Man".</li></ul></p>
+</section>
+  
+  <section class="main-section" id="personality">
+    <header>Personality</header>
+    <p>There are times where Steve's confidence and self-worth wins out over Stan's demands and he becomes willing to rebel and stand up to his father. In "Star Trek", Steve, tired of being lied to and used by Stan, divorces his entire family. In "Bully for Steve", Steve handles his dad's bullying by hiring Stan's childhood bully Stelio Kontos to beat him up rather than face him directly, as Stan had wanted. </p>
+     <code>lorem ipsum lorem ipsum</code>
+
+    <p>When the series first began, Steve considered himself the height of coolness, but as time progressed, Steve has come to accept that he is indeed a geek, who is at times driven primarily by selfish desires. For the most part he's comfortable with this, save for the points when his father is involved and openly sneers at Steve's hobbies and geeky friends. </p>
+     <code>lorem ipsum lorem ipsum</code>
+
+    <p>He is also known to have extreme anger issues; and will often destroy things around him when he is angry. In "Family Affair", he destroys several household objects including his grandmother's chandelier when he feels betrayed by Roger.</p>
+     <code>lorem ipsum lorem ipsum</code>
+
+
+<p>Steve is also highly sensitive emotionally and frequently cries when he is upset, especially if his actions result in his dad expressing disappointment or disapproval. For example, in "Every Which Way But Lose", he cries when Stan cuts him from the football team. In "Home Adrone", Stan berates Steve for damaging an expensive military drone, leaving the latter in tears. In "The Unbrave One", Roger helps Steve become a hero to gain Stan's approval, but Steve breaks down and cries when Roger steals the credit.</p>
+     <code>lorem ipsum lorem ipsum</code>
+
+
+<p>In "Hurricane!", it appeared that Steve might have a fetish for Asians and pregnant women, either separately or even both, when Francine found multiple magazines in Steve's bedroom. </p>
+  </section>
+  
+  <section class="main-section" id="hobbies_and_talents">
+    <header>Hobbies and Talents</header>
+    <p>In regards to his geeky-leanings, Steve is into playing Dungeons and Dragons and online gaming. He can read Elvish, has an in-depth knowledge of assorted fantasy and Sci-fi genres. Steve also has an odd love of the macabre, and understands the process of a body decomposing in the earth. </p>
+     <code>lorem ipsum lorem ipsum</code>
+
+    <p>As a result of Stan's teachings, Steve also has a surprisingly impressive numbers of CIA spy skills. He is a master of disguise, educated in using Morse code and can even speak to dolphins. Steve understands gun maintenance and may very well be trained in weapons use. Steve is also occasionally shown to demonstrate detective level skills of analysis and observation. https://americandad.fandom.com/wiki/Steve_Smith</p>
+  </section>
+</main>
+
+</html>
+
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+body{
+  color:#231f1f;
+  font-size:20px;
+  font-family:'PT SERIF',SANS_SERIF;
+  background-color:#7b7a78;
+  margin:0;
+}
+main{
+  position:absolute;
+  left:355px;
+  background-color:white;
+  padding-left:10px;
+  padding-top:15px;
+  
+}
+#navbar{
+  position:fixed;
+  width:350px;
+  height:100%;
+  left:0px;
+  background-color:white;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+#title{
+  font-size:40px;
+  text-align:center;
+}
+header{
+  font-size:30px;
+  font-weight:bold;
+}
+
+.nav-link{
+  display:block;
+  border-color:black;
+  border-top:1px solid;
+  line-height:60px;
+}
+#navbar a {
+  display: block;
+  padding: 10px 30px;
+  color:#231f1f;
+  text-decoration: none;
+  cursor: pointer;
+}
+code{
+  display:block;
+  background-color:#dadada;
+  padding:15px;
+  margin:10px;
+  text-align:left;
+}
+
+
+@media (max-width:400px){
+  body{
+    display:grid;
+    grid-template-rows:auto;
+  }
+}
+</style>
+
