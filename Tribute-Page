@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<image src="https://turkinkilabi.com/wp-content/uploads/2018/04/tbmm.jpg" id="background-img">
+ 
+  
+<main id="main">
+  <header><h1 id="title">Mustafa Kemal ATATÜRK</h1>
+  <h2>The great leader of Turkey</h2>
+  </header>
+  
+  <figure id="img-div">
+    <img id="image" src="https://cdn.britannica.com/56/195956-050-0110697A/Kemal-Ataturk.jpg" alt="picture of M.Kemal ATATÜRK">
+    <br>
+    <figcaption id="img-caption">
+      figure of M.Kemal ATATÜRK
+    </figcaption>
+  </figure>
+  <p id="tribute-info">
+    Kemal Atatürk, also called Mustafa Kemal Paşa, (born 1881, Salonika, Greece—died November 10, 1938, Istanbul, Turkey), soldier, statesman, and reformer who was the founder and first president (1923–38) of the Republic of Turkey. He modernized the country’s legal and educational systems and encouraged the adoption of a European way of life, with Turkish written in the Latin alphabet and with citizens adopting European-style names.
+  </p>
+  <div id="chronology">
+    <ul>
+      <li>
+        <strong>1881</strong>
+Mustafa Kemal Ataturk is born in Salonika.
+      </li>
+   <li>   
+<strong>1893</strong>
+The young Mustafa enters the Military Preparatory School in Salonika and is
+given the second name "Kemal" by his teacher.</li>
+   <li>   
+<strong>1895</strong>
+Mustafa Kemal enters the Military High School at Manastir.
+</li>
+   <li>   
+<strong>1899</strong> 
+ 
+Mustafa Kemal enters the infantry class of the Military Academy in
+Istanbul.
+</li>
+   <li>   
+<strong>1902</strong>
+Mustafa Kemal graduates from the Military Academy and continues his studies at the 
+General Staff College.
+</li>
+   <li>   
+<strong>January 11, 1905</strong> 
+Mustafa Kemal graduates from the General Staff College with the rank of
+Staff Captain and is posted to the Fifth Army, based in Damascus.
+</li>
+   <li>   
+<strong>October 1906</strong>
+Mustafa Kemal and his friends become active in the little known
+"Fatherland and Freedom" society in Damascus.
+</li>
+   <li>   
+<strong>September 1907</strong>
+Mustafa Kemal is transferred to the Third Army and travels to Salonika.
+</li>
+   <li>   
+<strong>September 13, 1911</strong>
+Mustafa Kemal is transferred to the General Staff in Istanbul.
+</li>
+   <li>   
+<strong>January 9, 1912</strong>
+Mustafa Kemal successfully leads the Tobruk offensive in Libya.
+</li>
+   <li>   
+<strong>November 25, 1912</strong>
+Mustafa Kemal is appointed Director of Operations (Mediterranean Straits
+Special Forces).
+</li>
+   <li>   
+<strong>October 27, 1913</strong>
+Mustafa Kemal is appointed Military Attaché in Sofia.
+</li>
+   <li>   
+<strong>March 18, 1915</strong>
+Allied navy fails to force the Turkish Straits. Mustafa Kemal demonstrates outstanding skills as a soldier and commander throughout the battle at Canakkale.
+</li>
+   <li>   
+<strong>April 25, 1915</strong>
+Allied troops land at Arıburnu (Anzac Cove) along the Dardanelles; Mustafa Kemal plays a major role in stopping their advance. 
+</li>
+   <li>   
+<strong>August 9, 1915</strong>
+Mustafa Kemal is appointed Commander of the Anafartalar Group on the Gallipoli Peninsula.
+</li>
+   <li>   
+<strong>April 1, 1916</strong>
+Mustafa Kemal is promoted Brigadier-General.
+</li>
+   <li>   
+<strong>August 6-7, 1916</strong>
+Mustafa Kemal wins Bitlis and Muş back from the enemy.
+</li>
+   <li>   
+<strong>October 31, 1918</strong>
+Mustafa Kemal becomes Commander, 'Lightning Group' of Armies.
+</li>
+   <li>   
+<strong>April 30, 1919</strong>
+Mustafa Kemal is appointed Inspector of the 9th Army based in Erzurum and is granted extensive powers. 
+</li>
+   <li>   
+<strong>May 16, 1919</strong>
+Mustafa Kemal leaves Istanbul for Samsun on the Bandırma vessel. 
+</li>
+   <li>   
+<strong>May 19, 1919</strong>
+Mustafa Kemal lands in Samsun, a city located on the Black Sea.. This date marks the beginning of the Turkish national liberation movement, and is an official holiday dedicated to the youth of Turkey.
+</li>
+   <li>   
+<strong>July 8, 1919</strong>
+Mustafa Kemal resigns from his post of Inspector of the 3rd Army, and from the army. 
+</li>
+   <li>   
+<strong>July 23, 1919</strong>
+Mustafa Kemal is elected Chairman of the Erzurum Congress.
+</li>
+   <li>   
+<strong>September 4, 1919</strong>
+Mustafa Kemal is elected Chairman of the Sivas Congress.
+</li>
+   <li>   
+<strong>December 27, 1919</strong>
+Mustafa Kemal arrives in Ankara with the Excutive Committee.
+</li>
+   <li>   
+<strong>April 23, 1920</strong>
+Mustafa Kemal opens the Turkish Grand National Assembly in Ankara.
+</li>
+   <li>   
+<strong>May 11, 1920</strong>
+Mustafa Kemal is condemned to death by the government in Istanbul. 
+</li>
+   <li>   
+<strong>August 5, 1921</strong>
+Mustafa Kemal is appointed Commander-in-Chief by the Grand National Assembly.
+</li>
+   <li>   
+<strong>August 23, 1921</strong>
+The battle of Sakarya, led by Mustafa Kemal, begins.
+</li>
+   <li>   
+<strong>September 19, 1921</strong>
+The Grand National Assembly gives Mustafa Kemal the rank of Marshal and
+the title Gazi (Victor).
+</li>
+   <li>   
+<strong>August 26, 1922</strong>
+Gazi Mustafa Kemal begins to lead the Great Offensive from the hill of
+Kocatepe.
+</li>
+   <li>   
+<strong>August 30, 1922</strong>
+Gazi Mustafa Kemal Paşa wins the battle of Dumlupınar.
+</li>
+   <li>   
+<strong>September 10, 1922</strong>
+Gazi Mustafa Kemal enters Izmir.
+</li>
+   <li>   
+<strong>November 1, 1922</strong>
+The Grand National Assembly accepts Gazi Mustafa Kemal's proposal to
+abolish the Sultanate. 
+</li>
+   <li>   
+<strong>October 29, 1923</strong>
+Proclamation of the Turkish Republic. Gazi Mustafa Kemal is elected Turkey's
+First President.
+</li>
+   <li>   
+<strong>August 24, 1924</strong>
+As part of Turkey's modernization, Gazi Mustafa Kemal wears a hat at Sarayburnu in
+Istanbul. 
+</li>
+   <li>   
+<strong>August 9, 1928</strong>
+As part of Turkey's reform process, Gazi Mustafa Kemal educates the public on the new Turkish alphabet at Sarayburnu.
+</li>
+   <li>   
+<strong>April 12, 1931</strong> 
+Gazi Mustafa Kemal establishes the Turkish Historical Society.
+</li>
+   <li>   
+<strong>July 12, 1932</strong>
+Gazi Mustafa Kemal founds the Turkish Linguistic Society.
+</li>
+   <li>   
+<strong>June 16, 1934</strong>
+The Grand National Assembly passes a law granting Gazi Mustafa Kemal the
+surname "Atatürk."
+</li>
+   <li>   
+<strong>November 10, 1938</strong>
+Ataturk died at five past nine in the morning on November 10 in Dolmabahce Palace. Mourning Turkish citizens came to Istanbul to pay their last respects to Ataturk, until November 19, when the coffin in which his body rested, covered by a Turkish flag, was taken in procession to Sarayburnu. After it was placed onto the battleship Yavuz, it was transported to Izmit and later placed on a specially designated train which travelled at a slow speed throughout the country to enable mourners to pay tribute to their leader. Once the coffin arrived in Ankara on November 20, an official funeral was held on November 21. Dignitaries from many countries attended Ataturk’s state funeral. The coffin was moved in a solemn procession by gun carriage from the Grand National Assembly to the Ethnographic Museum, which had been selected as a temporary resting place until a mausoleum for Atatürk could be constructed.
+     </li>
+   </ul>   
+  </div>
+  <h3>For more information jump to this
+  <a href="https://www.britannica.com/biography/Kemal-Ataturk" target="_blank" id="tribute-link">article</a>
+  </h3>
+</main>
+</html>
+
+
+
+
+
+
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Scheherazade+New&display=swap');
+body{
+  font-size:25px;
+  font-family:'Scheherazade New',sans-serif;
+  
+  color: #333;
+  margin:0;
+}
+#main{
+display:block;
+position:absolute;
+margin:0;
+text-align:center;  
+}
+header{
+margin-top:0px;
+
+}
+#background-img{
+  
+  width:100%;
+  height:auto;
+  position:fixed;
+  margin-top:0px;
+  margin-left:0px;
+  opacity:0.3;
+  z-index:-1;
+}
+#title{
+  font-size:60px;
+
+}
+#img-div{
+  padding:10px;
+}
+#image{
+  display:block;
+  max-width:30%;
+  height:auto;
+  margin:auto; 
+  border:6px solid;
+}
+#tribute-info{
+  max-width:700px;
+  text-align:center;
+  margin:0 auto 50px auto;
+  line-height:1.5;
+}
+ul{
+  text-align:left;
+   max-width: 600px;
+  margin: 0 auto 50px auto;
+  line-height:1.5;
+}
+li{
+   padding:10px;
+}
+h3{
+  background-color:#c0b7c8
+  font-size:3rem;
+  padding:10px;
+}
+
+</style>
